@@ -1,0 +1,7 @@
+name = "@myco/typescript"
+
+[[version]]
+version = "5.0.4"
+pack_url = "typescript-5.0.4.zip"
+toml_url = "typescript-5.0.4.toml"
+

@@ -1,0 +1,6 @@
+[[namespace]]
+name = "@myco"
+
+[[namespace.package]]
+name = "@myco/typescript"
+index_url = "@myco/typescript/index.toml"
